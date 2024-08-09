@@ -1,5 +1,12 @@
 .impares{
     background-color: pink;
-    font-family: Verdana, DejaVu, sans-serif;
-    
+    font-family: Verdana, DeDejaVu sans-serif;
+}
+#segundo {
+    color: blue;
+    font-size: 24px;
+}
+#cuarto{
+    background-color: green;
+    font-weight: 900;
 }
